@@ -1,0 +1,9 @@
+p{display: inline-table;}
+*{
+    text-align: center;
+    background-color: #8783b4;
+    text-shadow: rgb(105, 10, 10);
+}
+button{
+    color: green;
+}
